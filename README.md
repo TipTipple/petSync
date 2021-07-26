@@ -1,1 +1,1 @@
-# petSync
+# pet-sync
